@@ -1,0 +1,8 @@
+/.wasp/
+/.env.server
+/.env.client
+
+.DS_Store
+
+# Local Netlify folder
+.netlify
